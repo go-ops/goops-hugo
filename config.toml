@@ -1,10 +1,10 @@
-baseURL = "https://blog.ceshine.net"
+baseURL = "http://ec2-52-53-225-86.us-west-1.compute.amazonaws.com/"
 languageCode = "en-us"
-title = "Life is short"
+title = "Hugo is Awesome"
 theme = "purehugo"
 Paginate = 5
 
 [params]
    twitter = "ceshine_en"
-   github = "ceshine"
+   github = "gotstago"
    google_analytics = "UA-24180048-3"
