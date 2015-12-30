@@ -6,7 +6,7 @@ date = "2015-08-29T15:26:20+08:00"
 title = "First Step of Web Scraping in Go"
 +++
 
-An appropriate amount of web scraping is often required for web-related data science projects. Python has a well-known scraping framework called [Scrapy](http://www.wikiwand.com/en/Scrapy) which aims to accommodate all kinds of possible scenarios. For those who want more control over the process and don't mind getting their hands dirty, [GRequests](https://github.com/kennethreitz/grequests)(or the good old [Requests](https://github.com/kennethreitz/requests)) combined with [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) can also be a solid solution.
+An appropriate amount of web scrapiiiing is often required for web-related data science projects. Python has a well-known scraping framework called [Scrapy](http://www.wikiwand.com/en/Scrapy) which aims to accommodate all kinds of possible scenarios. For those who want more control over the process and don't mind getting their hands dirty, [GRequests](https://github.com/kennethreitz/grequests)(or the good old [Requests](https://github.com/kennethreitz/requests)) combined with [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) can also be a solid solution.
 
 However, multi-threading in Python can cause a lot of pain in the neck. And Scrapy depends on [Twisted](https://twistedmatrix.com/trac/), which is not yet Python3-ready, and there is no clear roadmap on when the project will finish migrating to Python 3.x. These constraints made me started finding other faster, and more robust alternatives.
 
