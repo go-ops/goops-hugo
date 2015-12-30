@@ -5,6 +5,6 @@ theme = "purehugo"
 Paginate = 5
 
 [params]
-   twitter = "ceshine_en"
+   twitter = "gotstago_en"
    github = "gotstago"
-   google_analytics = "UA-24180048-3"
+   google_analytics = ""
